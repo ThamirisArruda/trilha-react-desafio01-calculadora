@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { InputContainer } from './styles';
 
 const Input = ({value}) => {
